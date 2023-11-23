@@ -28,7 +28,7 @@ username:
   # Disabling this can be a security risk!
   filter-special-chars: true
   min-length: 3
-  max-length: 16
+  max-length: 32
 # Shortcut that can be used as alternative to login/register command. Does not replace the defaults
 command-shortcut:
   enabled: false
@@ -41,10 +41,10 @@ updater:
 # Session timeout in seconds, set to -1 to disable.
 session-timeout: 0
 # Login timeout in seconds, set to -1 to disable.
-login-timeout: 30
+login-timeout: 45
 # Login/register message delay in seconds.
 login-message-delay: 10
 # Language for messages, check wiki for more info.
 # List: https://github.com/lenis0012/Translations
-# This setting should be set tot he file name without .json
+# This setting should be set to the file name without .json
 language: en_us

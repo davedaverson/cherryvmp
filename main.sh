@@ -2,7 +2,7 @@
 
 # ~~~ EaglercraftX Server
 # ~~~ >> smashed together once again by ayunami2000
-# ~~~ >> uwu
+
 
 unset DISPLAY
 

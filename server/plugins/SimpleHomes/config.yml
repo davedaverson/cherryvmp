@@ -42,11 +42,11 @@ multi-world: true
 # Should the teleport be cancelled if you move while waiting
 cancel-on-move: true
 # The message to send if you move while waiting and cancel-on-move is true
-move-cancel-message: "&cYou moved, teleport cancelled"
+move-cancel-message: "&cSTAY STILL GOD DANGIT! MY STUPID TELEPORTER CANNOT LOCK ON A SUGAR RUSHED, HIGHLY CAFFINATED JITTERBUG LIKE YOU!"
 
 # The message to show when the countdown goes down
 # where <time> is the number of seconds left
-countdown-message: "Teleporting in <time>..."
+countdown-message: "NO! WE ARE NOOOT THERE YET!"
 
 # The chat colour code to use when sending messages
 # This will be prepended before each message!
@@ -57,10 +57,10 @@ chat-color: "&6"
 teleport-color: "&a"
 
 # The message to send after successfully teleporting
-teleport-message: "Teleported!"
+teleport-message: "Ahhhhhh... Home sweet home :D"
 
 # Message to show when at maximum home count
-max-homecount-message: "&cYou have reached the maximum amount of homes"
+max-homecount-message: "&cYou can't have another home you greedy capitalist pig!"
 
 # Message to show when trying to access admin commands without homes.admin
-invalid-perm-message: "&cInvalid permissions"
+invalid-perm-message: "&cHEY! WHAT DO YOU THINK YOU ARE TRYING TO DO!"
