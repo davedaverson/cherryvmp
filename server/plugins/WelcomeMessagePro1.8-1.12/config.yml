@@ -1,0 +1,31 @@
+To see api documentation, config help and updates go to: https://www.spigotmc.org/resources/welcomemessagepro.87578/
+We reccomend to use the punctuation API to minimize glitches!: ''
+Message: Welcome to the server [PLAYER.GETNAME] [PUNCTUATION.EXCLAMATION_MARK] We hope you enjoy your stay! The TPS is [SERVER.GETTPS] and your ping is [PLAYER.GETPING] [PUNCTUATION.FULL_STOP] You are currently in world [PLAYER.GETWORLD.GETNAME] :D
+Message2: 'null'
+Message3: 'null'
+Message4: 'null'
+Message5: 'null'
+Message6: 'null'
+Message7: 'null'
+Colour: WHITE
+Colour2: WHITE
+Colour3: WHITE
+Colour4: WHITE
+Colour5: WHITE
+Colour6: WHITE
+Colour7: WHITE
+BroadcastMessage: '[PLAYER.GETNAME] has joined us. Please apologize for braincell
+  loss.'
+BroadcastMessage2: 'null'
+BroadcastMessage3: 'null'
+BroadcastMessage4: 'null'
+BroadcastMessage5: 'null'
+BroadcastMessage6: 'null'
+BroadcastMessage7: 'null'
+BroadcastMessageColour: WHITE
+BroadcastMessageColour2: WHITE
+BroadcastMessageColour3: WHITE
+BroadcastMessageColour4: WHITE
+BroadcastMessageColour5: WHITE
+BroadcastMessageColour6: WHITE
+BroadcastMessageColour7: WHITE

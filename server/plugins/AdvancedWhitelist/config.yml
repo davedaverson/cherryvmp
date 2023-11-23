@@ -1,0 +1,6 @@
+prefix: '&3[Advanced&6Whitelist] '
+enabled: false
+death: false
+deny-msg: '&cYou are not on the whitelist!'
+time: 10
+kick-msg: '&cYou have died!'

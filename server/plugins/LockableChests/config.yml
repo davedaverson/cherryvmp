@@ -1,0 +1,16 @@
+plugin:
+  version: 1
+  debug: false
+database:
+  mysql: false
+  host: localhost
+  port: 3306
+  name: my_db
+  username: username
+  password: le password
+lock:
+  expire: false
+  timeout: 604800
+  types:
+  - CHEST
+  - TRAPPED_CHEST

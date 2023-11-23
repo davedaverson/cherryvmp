@@ -1,0 +1,37 @@
+chests:
+  ID2:
+    world: eaa6c2aa-57f3-4da5-83bd-edd249a70aa0
+    pos1x: -43
+    pos1y: 92
+    pos1z: 168
+    ownerid: 1ad4ab76-8332-3526-8d4c-86cdfe66ce7c
+    ownername: Arkaeriit
+    timeout: 1700849165366
+    modify: ''
+  ID3:
+    world: eaa6c2aa-57f3-4da5-83bd-edd249a70aa0
+    pos1x: -44
+    pos1y: 66
+    pos1z: 169
+    ownerid: da43330c-d4af-3822-9478-4887016fdec9
+    ownername: A_Dude124
+    timeout: 1700842252587
+    modify: ''
+  ID4:
+    world: eaa6c2aa-57f3-4da5-83bd-edd249a70aa0
+    pos1x: -45
+    pos1y: 66
+    pos1z: 160
+    ownerid: 2cd59c51-67c2-3336-bb19-566d723b0085
+    ownername: bluecherry_
+    timeout: 1701088437256
+    modify: ''
+  ID1:
+    world: ''
+    pos1x: 0
+    pos1y: 0
+    pos1z: 0
+    ownerid: ''
+    ownername: ''
+    timeout: 0
+    modify: ' '
